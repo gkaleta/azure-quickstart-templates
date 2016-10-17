@@ -11,9 +11,9 @@
     },
     "omsLogAnalyticsRegion": {
       "type": "string",
-      "defaultValue": "westeurope",
+      "defaultValue": "West Europe",
       "allowedValues": [
-        "westeurope",
+        "West Europe",
         "eastus",
         "southeastasia"
       ],
@@ -30,9 +30,9 @@
     },
     "omsAutomationRegion": {
       "type": "string",
-      "defaultValue": "westeurope",
+      "defaultValue": "West Europe",
       "allowedValues": [
-        "westeurope",
+        "West Europe",
         "southeastasia",
         "eastus2",
         "southcentralus",
